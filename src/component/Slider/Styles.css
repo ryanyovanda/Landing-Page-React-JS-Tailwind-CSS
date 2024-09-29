@@ -1,0 +1,13 @@
+.slider-image{
+    display: flex;
+    margin-left: 30px;
+    padding-top: 56px;
+    padding-bottom: 56px;
+    padding-left: 48px;
+    padding-right: 48px;
+    background-color: #c7d0d9;
+}
+
+.slider-image :hover{
+    background-color: black;
+}
